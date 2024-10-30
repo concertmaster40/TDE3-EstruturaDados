@@ -1,3 +1,4 @@
+// Nicolas Andreas Jackel
 import java.util.Random;
 
 public class QuickSort {
